@@ -1,0 +1,48 @@
+
+h1{
+    /*font-family: 'Raleway', sans-serif;*/
+    font-family: 'helvetica';
+    font-size: 48px;
+    color: #868686;
+    text-align: center;
+    padding-bottom: 2%;
+}
+h3{
+    font-family: 'Raleway', sans-serif;
+    color: #4e4e4e;
+}
+#ip1 {
+    border-radius: 25px;
+    border: 2px solid white;
+    background-color: white;
+    padding: 20px; 
+    width: 500px;
+    height: 15px;   
+}
+.login-form{
+    background-color: lightgray;
+    padding-top: 2vh;
+    margin: 10vh;
+    margin-top: 15vh;
+    margin-left: 20vh;
+    margin-right: 20vh;
+    padding-bottom: 10vh;
+}
+.email-pass{
+    padding-left: 200px;
+}
+a{
+    text-decoration: none;
+    /*word-spacing: 2em; */
+    font-family: 'helvetica';
+    font-size: small;
+}
+a:link{
+    color: blue;
+}
+a:visited{
+    color: white;
+}
+a:hover{
+    color: rgb(62, 62, 62);
+}

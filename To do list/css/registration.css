@@ -1,0 +1,49 @@
+h1{
+    /*font-family: 'Raleway', sans-serif;*/
+    font-family: 'helvetica';
+    font-size: 48px;
+    color: #868686;
+    text-align: center;
+    padding-bottom: 2%;
+}
+h3{
+    font-family: 'Raleway', sans-serif;
+    color: #4e4e4e;
+}
+#ip1 {
+    border-radius: 25px;
+    border: 2px solid white;
+    background-color: white;
+    padding: 12px; 
+    width: 500px;
+    height: 15px;   
+}
+.register-form{
+    background-color: lightgray;
+    padding-top: 2vh;
+    margin: 10vh;
+    margin-left: 20vh;
+    margin-right: 20vh;
+    padding-bottom: 10vh;
+    
+}
+.info{
+    padding-left: 200px;
+}
+
+a{
+    text-decoration: none;
+    font-family: 'helvetica';
+    font-size: small;
+    word-spacing: 2em;;
+    
+}
+a:link{
+    color: blue;
+}
+a:visited{
+    color: white;
+}
+a:hover{
+    color: rgb(62, 62, 62);
+}
